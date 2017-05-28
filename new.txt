@@ -1,8 +1,4 @@
 [time]
-
-
-awaketime:1
-
-
-
-sleeptime:5
+awake_time:4
+sleep_time:2
+wait_time:25
